@@ -12,7 +12,7 @@
     "baseUrl": "src",
     "paths": {
       "@/*": ["*"],
-      "@/tets/*": ["../tests/*"]
+      "@/tests/*": ["../tests/*"]
     },
     "strict": true
   },
